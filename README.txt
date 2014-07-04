@@ -4,3 +4,4 @@ Updating README with new information
 Updated from another directory
 Sharing is blah blah
 Feature2
+Feature2 changes
